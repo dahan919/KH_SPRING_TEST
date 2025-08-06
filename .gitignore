@@ -1,7 +1,7 @@
-.mvn/
+.mvn/wrapper/
 .settings/
 .classpath
 .factorypath
 .project
-HELP
+HELP.md
 
