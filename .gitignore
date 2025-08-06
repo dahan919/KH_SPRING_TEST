@@ -1,4 +1,5 @@
-.mvn/wrapper/
+
+.mvn/
 .settings/
 .classpath
 .factorypath
